@@ -1,4 +1,4 @@
-<div id="header" align="center"><img src=https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif width=100/></div>
+<div id="header" align="center"><img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width=100/></div>
 
 Hi, I'm Ina (iːnə). My interest lies in the field of Artificial Intelligence. I do Data Science, Machine Learning, competitive programming and all that good stuff.  I like to code and I code a lot. I've been programming since 2018. I know advanced Python and C/C++. I'm a web content writer at GeeksForGeeks, I write on topics related to AI, blockchain and other tech-topics. What I believe is that 
 > one should know everything about something and something about everything. 
@@ -8,7 +8,7 @@ I'm a hands-on learner. I'd rather dive into the practical work than read the th
 
 I use Python on a daily basis and I love it. You can have a look at some of the projects I've built! 
 
-Apart from being tech-savvy, I love music. Moslty I listen to rock, punk and heavy metal. I'm a huuuge fan of Queen, Led Zepplin, AC DC, Motorhead, Arctic Monkeys and Ceed. My music taste is very mixed, I also listen to Shawn Mendes, Drake, The Weeknd, John Mayer and many more. I've always wanted to learn to play guitar. I'm also a self-taught-not-so-good guitarist. I'm that cool computer person who's open to everything, loves to share knowledge and can talk about anything! 
+Apart from being tech-savvy, I love music. Moslty I listen to rock, punk and heavy metal. I'm a huuuge fan of Queen, Led Zepplin, AC DC, Motorhead, Arctic Monkeys and Ceed. My music taste is very mixed, I also listen to Shawn Mendes, Drake, The Weeknd, John Mayer and many more. I've always wanted to learn to play guitar. I'm also a self-taught-not-so-good guitarist. I'm that cool computer person who's open to everything, loves to share knowledge, make friends and can talk about anything! 
 
 
 
