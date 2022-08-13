@@ -8,7 +8,7 @@ I'm a hands-on learner. I'd rather dive into the practical work than read the th
 
 I use Python on a daily basis and I love it. You can have a look at some of the projects I've built! 
 
-Apart from being tech-savvy, I love music. Moslty I listen to rock, punk and heavy metal. I'm a huuuge fan of Queen, Led Zepplin, AC DC, Motorhead, Arctic Monkeys and Ceed. My music taste is very mixed, I also listen to Shawn Mendes, Drake, The Weeknd, John Mayer and many more. I've always wanted to learn to play guitar. I'm also a self-taught-not-so-good guitarist. I'm that cool computer person who's open to everything, loves to share knowledge, make friends and can talk about anything! 
+Apart from being tech-savvy, I love music. Moslty I listen to rock, punk and heavy metal. I'm a huuuge fan of Queen, Led Zepplin, AC DC, Motorhead, Arctic Monkeys and Ceed. My music taste is very mixed. I've always wanted to learn to play guitar. I'm also a self-taught-not-so-good guitarist. I'm that cool computer person who's open to everything, loves to share knowledge, make friends and can talk about anything! 
 
 
 
